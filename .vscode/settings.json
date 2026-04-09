@@ -1,0 +1,6 @@
+{
+    "al.packageCachePath": ".alpackages",
+    "files.associations": {
+        "*.al": "al"
+    }
+}

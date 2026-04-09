@@ -1,0 +1,33 @@
+{
+    "id": "3389c775-3bdb-4abc-9807-65a104e69239",
+    "name": "MMBC M SOLO",
+    "publisher": "ITB2204",
+    "version": "1.0.0.0",
+    "brief": "Shelf life extension workflow for raw materials",
+    "description": "Business Central extension for shelf life extension requests and documents.",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "27.0.0.0",
+    "application": "27.0.0.0",
+    "idRanges": [
+        {
+            "from": 59200,
+            "to": 59249
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "16.0",
+    "features": [
+        "NoImplicitWith",
+        "TranslationFile"
+    ]
+}

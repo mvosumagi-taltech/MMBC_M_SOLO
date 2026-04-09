@@ -83,6 +83,9 @@ src/
 | 59223 | Table | MMBC Audit Log |
 | 59224 | Page | MMBC Audit Log |
 | 59225 | TableExt | Lot No. Info Extension |
+| 59226 | Codeunit | MMBC Demo Setup |
+| 59227 | Table | MMBC Cue |
+| 59228 | Page | MMBC Activities |
 
 ### Core Workflow
 

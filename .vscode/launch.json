@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "MMBC OnPrem",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "https://itb2204.bc365.eu/",
+            "serverInstance": "BC",
+            "tenant": "MMBC2",
+            "authentication": "UserPassword",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}
