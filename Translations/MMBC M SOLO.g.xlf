@@ -103,6 +103,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Setup - Control Request Nos. - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4123091762 - Control 1037860701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Shelf Life Extension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item Card Ext. - Control ShelfLifeExtension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4123091762 - Control 1465738670 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the default number of days before expiry when a warning is triggered for shelf life extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item Card Ext. - Control Default Warning Period (Days) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4123091762 - Control 679033013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies whether the shelf life of this item can be extended beyond the standard expiration date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item Card Ext. - Control Shelf Life Extension Allowed - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="TableExtension 2042781808 - Field 1465738670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
           <source>Default Warning Period (Days)</source>
           <note from="Developer" annotates="general" priority="2"></note>
