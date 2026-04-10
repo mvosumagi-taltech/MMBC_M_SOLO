@@ -2,7 +2,108 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en-US" original="MMBC M SOLO">
     <body>
-      <group id="body" />
+      <group id="body">
+        <trans-unit id="Table 384315274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MMBC Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MMBC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 384315274 - Field 1465738670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Warning Period (Days)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MMBC Setup - Field Default Warning Period (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 384315274 - Field 2593693414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email Scenario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MMBC Setup - Field Email Scenario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 384315274 - Field 3310187806 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension Document Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MMBC Setup - Field Extension Document Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 384315274 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MMBC Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 384315274 - Field 3754232279 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MMBC Setup - Field Request Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 313874983 - NamedType 3342384989" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MMBC demo seadistus on loodud.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MMBC Demo Setup - NamedType SetupCompletedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 313874983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MMBC Demo Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Demo Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 313874983 - NamedType 2695136257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Demo Setup to create baseline demo data for MMBC development and testing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Demo Setup - NamedType InstructionTextLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 313874983 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Demo Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 313874983 - Control 1654013215 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Explains what data will be created by the demo setup action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Demo Setup - Control InstructionText - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 313874983 - Control 1654013215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instruction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Demo Setup - Control InstructionText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 313874983 - Action 4172965807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates demo number series, setup data, vendor, item, and opening lot quantity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Demo Setup - Action RunDemoSetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 313874983 - Action 4172965807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Demo Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Demo Setup - Action RunDemoSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384315274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MMBC Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384315274 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384315274 - Control 1465738670 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mitu päeva enne aegumist kuvatakse hoiatus aeguvate partiide vaates.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Setup - Control Default Warning Period (Days) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 384315274 - Control 2593693414 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-kirja saatmise stsenaarium.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Setup - Control Email Scenario - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 384315274 - Control 3310187806 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pikendamisdokumendi numbriseeriad.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Setup - Control Extension Document Nos. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 384315274 - Control 3754232279 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pikendamispäringu numbriseeriad.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Setup - Control Request Nos. - Property ToolTip</note>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
