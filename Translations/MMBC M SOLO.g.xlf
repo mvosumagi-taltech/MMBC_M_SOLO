@@ -103,6 +103,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MMBC Setup - Control Request Nos. - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="TableExtension 2042781808 - Field 1465738670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Default Warning Period (Days)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Item Extension - Field Default Warning Period (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2042781808 - Field 679033013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Shelf Life Extension Allowed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Item Extension - Field Shelf Life Extension Allowed - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>
