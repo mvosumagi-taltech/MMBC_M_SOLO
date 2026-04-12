@@ -118,6 +118,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item Card Ext. - Control Shelf Life Extension Allowed - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3597934301 - NamedType 1644558755" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3597934301">
+          <source>Selle kauba säilivusaja pikendamine ei ole lubatud.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Lot No. Info Card Ext - NamedType ExtensionNotAllowedErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3597934301 - Action 1037860701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4038454596">
+          <source>Säilivusaja pikendamine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Lot No. Info Card Ext - Action ShelfLifeExtension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3597934301 - Action 2750205280 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4038454596">
+          <source>Loob uue säilivusaja pikendamispäringu selle partii jaoks.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Lot No. Info Card Ext - Action CreateExtensionRequest - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3597934301 - Action 2750205280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4038454596">
+          <source>Loo pikendamispäring</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Lot No. Info Card Ext - Action CreateExtensionRequest - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 2042781808 - Field 1465738670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
           <source>Default Warning Period (Days)</source>
           <note from="Developer" annotates="general" priority="2"></note>
