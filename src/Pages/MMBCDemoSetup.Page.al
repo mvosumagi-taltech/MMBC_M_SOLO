@@ -1,7 +1,7 @@
 page 59228 "MMBC Demo Setup"
 {
     Caption = 'MMBC Demo Setup';
-    PageType = StandardDialog;
+    PageType = Card;
     ApplicationArea = All;
     UsageCategory = Administration;
 
@@ -30,7 +30,11 @@ page 59228 "MMBC Demo Setup"
             action(RunDemoSetup)
             {
                 Caption = 'Run Demo Setup';
+                ApplicationArea = All;
                 Image = Setup;
+                Promoted = true;
+                PromotedCategory = Process;
+                PromotedIsBig = true;
                 ToolTip = 'Creates demo number series, setup data, vendor, item, and opening lot quantity.';
 
                 trigger OnAction()
